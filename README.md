@@ -53,6 +53,6 @@ mvn spring-boot:run
 
 *O aplicativo lança exceções personalizadas para gerenciar erros:*
 
-- ExcecaoCliente: Lançada em casos de erro relacionado ao cliente.*
-- ExececaoEmpresa: Lançada em casos de erro relacionado à empresa.*
+- ExcecaoCliente: Lançada em casos de erro relacionado ao cliente.
+- ExececaoEmpresa: Lançada em casos de erro relacionado à empresa.
 - InformacoesAdicionais: Lançada em casos de erro ao obter informações adicionais.
