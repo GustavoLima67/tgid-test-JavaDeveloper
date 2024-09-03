@@ -15,7 +15,7 @@
 **Classes Principais**
 
 **Cliente**
-- Representa um cliente com um CPF e um saldo. Permite depositar dinheiro e investir na empresa.**
+- Representa um cliente com um CPF e um saldo. Permite depositar dinheiro e investir na empresa.
 
 *Métodos principais:*
 - depositar(double quantia): Adiciona uma quantia ao saldo do cliente.
