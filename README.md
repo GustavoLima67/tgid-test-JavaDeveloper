@@ -30,6 +30,7 @@
 - Classe principal que gerencia o fluxo do aplicativo, incluindo a entrada de dados do usuário, criação de instâncias de cliente e empresa, e envio de notificações.
 
 **Como Executar**
+
 *Clone o repositório:*
 
 git clone https://github.com/usuario/project-tgid.git
@@ -39,6 +40,7 @@ cd project-tgid
 - Compile e execute o aplicativo:
 
 mvn spring-boot:run
+
 **ou, se preferir, use a IDE de sua escolha para executar a classe ProjectTgidApplication.**
 
 **Funcionalidades**
