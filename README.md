@@ -50,7 +50,9 @@ mvn spring-boot:run
 - Informações: Exibe informações detalhadas sobre o cliente e a empresa.
 
 **Exceções**
+
 *O aplicativo lança exceções personalizadas para gerenciar erros:*
+
 - ExcecaoCliente: Lançada em casos de erro relacionado ao cliente.*
 - ExececaoEmpresa: Lançada em casos de erro relacionado à empresa.*
 - InformacoesAdicionais: Lançada em casos de erro ao obter informações adicionais.
