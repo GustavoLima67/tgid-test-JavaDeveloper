@@ -56,3 +56,6 @@ mvn spring-boot:run
 - ExcecaoCliente: Lançada em casos de erro relacionado ao cliente.
 - ExececaoEmpresa: Lançada em casos de erro relacionado à empresa.
 - InformacoesAdicionais: Lançada em casos de erro ao obter informações adicionais.
+
+
+*Obs: Esse Projeto usou um sistema de notificação por email. mas por ser meu primeiro sistema desse tipo, não está 100% funcional.*
