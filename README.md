@@ -33,7 +33,7 @@
 
 *Clone o repositório:*
 
-git clone https://github.com/usuario/project-tgid.git
+git clone (https://github.com/GustavoLima67/tgid-test-JavaDeveloper.git)
 - Navegue até o diretório do projeto:
 
 cd project-tgid
